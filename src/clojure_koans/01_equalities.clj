@@ -1,4 +1,4 @@
-(ns koans.01-equalities
+(ns clojure-koans.01-equalities
   (:require [koan-engine.core :refer :all]))
 
 (meditations

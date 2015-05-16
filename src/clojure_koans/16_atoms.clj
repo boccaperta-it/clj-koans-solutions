@@ -1,4 +1,4 @@
-(ns koans.16-atoms
+(ns clojure-koans.16-atoms
   (:require [koan-engine.core :refer :all]))
 
 (def atomic-clock (atom 0))

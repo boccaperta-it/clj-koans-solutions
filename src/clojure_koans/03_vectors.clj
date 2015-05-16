@@ -1,4 +1,4 @@
-(ns koans.03-vectors
+(ns clojure-koans.03-vectors
   (:require [koan-engine.core :refer :all]))
 
 (meditations

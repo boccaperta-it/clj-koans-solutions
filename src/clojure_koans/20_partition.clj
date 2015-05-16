@@ -1,4 +1,4 @@
-(ns koans.20-partition
+(ns clojure-koans.20-partition
   (:require [koan-engine.core :refer :all]))
 
 (meditations

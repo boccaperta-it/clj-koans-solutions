@@ -1,4 +1,4 @@
-(ns koans.14-destructuring
+(ns clojure-koans.14-destructuring
   (:require [koan-engine.core :refer :all]))
 
 (def test-address

@@ -1,4 +1,4 @@
-(ns koans.08-higher-order-functions
+(ns clojure-koans.08-higher-order-functions
   (:require [koan-engine.core :refer :all]))
 
 (meditations

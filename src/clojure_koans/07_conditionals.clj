@@ -1,4 +1,4 @@
-(ns koans.07-conditionals
+(ns clojure-koans.07-conditionals
   (:require [koan-engine.core :refer :all]))
 
 (defn explain-defcon-level [exercise-term]

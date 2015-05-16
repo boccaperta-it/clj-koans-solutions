@@ -1,4 +1,4 @@
-(ns koans.04-sets
+(ns clojure-koans.04-sets
   (:require [koan-engine.core :refer :all]))
 
 (meditations

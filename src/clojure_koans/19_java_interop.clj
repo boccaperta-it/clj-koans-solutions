@@ -1,4 +1,4 @@
-(ns koans.19-java-interop
+(ns clojure-koans.19-java-interop
   (:require [koan-engine.core :refer :all]))
 
 (meditations

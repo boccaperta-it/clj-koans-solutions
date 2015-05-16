@@ -1,4 +1,4 @@
-(ns koans.21-group-by
+(ns clojure-koans.21-group-by
   (:require [koan-engine.core :refer :all]))
 
 (defn get-odds-and-evens [coll]

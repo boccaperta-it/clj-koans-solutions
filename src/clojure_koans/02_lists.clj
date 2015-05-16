@@ -1,4 +1,4 @@
-(ns koans.02-lists
+(ns clojure-koans.02-lists
   (:require [koan-engine.core :refer :all]))
 
 (meditations
